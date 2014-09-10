@@ -1,0 +1,7 @@
+﻿1:hazdns.sytes.net
+1:haztech.sytes.net
+1:perfectworld.sytes.net
+1:aera.zapto.org
+1:marhazk.sytes.net
+2:haztechglobal.sytes.net
+2:haztechadmin.sytes.net

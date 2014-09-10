@@ -1,0 +1,37 @@
+D:\MyDocs\TEST TEST\DNSAera\bin\Debug\DNSAera.exe
+D:\MyDocs\TEST TEST\DNSAera\bin\Debug\DNSAera.pdb
+D:\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\DNSAera.Main.resources
+D:\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\DNSAera.Properties.Resources.resources
+D:\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\ResGen.read.1.tlog
+D:\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\ResGen.write.1.tlog
+D:\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\DNSAera.exe
+D:\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\DNSAera.pdb
+D:\MarHazK\MyDocs\TEST TEST\DNSAera\bin\Debug\DNSAera.exe
+D:\MarHazK\MyDocs\TEST TEST\DNSAera\bin\Debug\DNSAera.pdb
+D:\MarHazK\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\DNSAera.Main.resources
+D:\MarHazK\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\DNSAera.Properties.Resources.resources
+D:\MarHazK\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\DNSAera.csproj.GenerateResource.Cache
+D:\MarHazK\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\DNSAera.exe
+D:\MarHazK\MyDocs\TEST TEST\DNSAera\obj\x86\Debug\DNSAera.pdb
+D:\PW\DNSAera\obj\x86\Debug\DNSAera.exe
+D:\PW\DNSAera\obj\x86\Debug\DNSAera.pdb
+D:\PW\DNSAera\bin\Debug\DNSAera.exe
+D:\PW\DNSAera\bin\Debug\DNSAera.pdb
+D:\PW\DNSAera\obj\x86\Debug\DNSAera.Main.resources
+D:\PW\DNSAera\obj\x86\Debug\DNSAera.Properties.Resources.resources
+D:\PW\DNSAera\obj\x86\Debug\DNSAera.csproj.GenerateResource.Cache
+D:\PW\DNSAera\bin\Debug\DNSAera.exe.config
+D:\PW\DNSAera\bin\Debug\AeraClass.dll
+D:\PW\DNSAera\bin\Debug\AeraClass.pdb
+D:\PW\DNSAera\bin\Debug\DNSAera.txt
+D:\PW\DNSAera\obj\x86\Debug\DNSAera.csprojResolveAssemblyReference.cache
+D:\HDD\Pub\Dropbox\Projects\DNSAera\bin\Debug\DNSAera.exe.config
+D:\HDD\Pub\Dropbox\Projects\DNSAera\obj\x86\Debug\DNSAera.exe
+D:\HDD\Pub\Dropbox\Projects\DNSAera\obj\x86\Debug\DNSAera.pdb
+D:\HDD\Pub\Dropbox\Projects\DNSAera\obj\x86\Debug\DNSAera.csprojResolveAssemblyReference.cache
+D:\HDD\Pub\Dropbox\Projects\DNSAera\obj\x86\Debug\DNSAera.Main.resources
+D:\HDD\Pub\Dropbox\Projects\DNSAera\obj\x86\Debug\DNSAera.Properties.Resources.resources
+D:\HDD\Pub\Dropbox\Projects\DNSAera\obj\x86\Debug\DNSAera.csproj.GenerateResource.Cache
+D:\HDD\Pub\Dropbox\Projects\DNSAera\obj\x86\Debug\Aera.Main.resources
+D:\HDD\Pub\Dropbox\Projects\DNSAera\obj\x86\Debug\Aera.Properties.Resources.resources
